@@ -15,4 +15,4 @@ for i in range(2, 11, 2):
 # using the function to print the ^3 of a list of numbers
 my_numbers = [3, 7, 9, 12, 16]
 print("The ^3 of my numbers are:")
-print_squares(my_numbers)
+print_raised_to_the_third(my_numbers)
